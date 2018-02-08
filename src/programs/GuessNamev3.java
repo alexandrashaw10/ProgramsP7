@@ -2,7 +2,7 @@ package programs;
 import java.util.Scanner;
 
 /*
-Alex Shaw
+Alex Shaww
 Intro to Computer Science 
 Feb 1, 2018
 Description:
