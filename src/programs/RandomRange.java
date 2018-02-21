@@ -21,7 +21,7 @@ public class RandomRange {
 		System.out.println("Please enter a number for the top of the range:");
 		topNum = scan.nextInt();
 		scan.nextLine();
-		while (topNum <= lowNum) { //checks if valid
+		while (topNum < lowNum) { //checks if valid
 			System.out.println("Error. Please enter an integer higher than the low bound you entered.");
 			topNum = scan.nextInt();
 			scan.nextLine();
